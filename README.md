@@ -26,6 +26,7 @@ Meu interesse e paixão pela área de ciência de dados surgiu quando notei que,
 Veja os tutoriais publicados:
 
 * **Data Science: Investigando o naufrágio do Titanic:** <a href=https://github.com/ecordeiro/data_science/blob/main/Titanic.ipynb>Titanic</a>
+* **Analisando dados do Airbnd:**
 
 
 
