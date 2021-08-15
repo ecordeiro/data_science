@@ -25,8 +25,8 @@ Meu interesse e paixão pela área de ciência de dados surgiu quando notei que,
 ## Projetos em Data Science:
 Veja os tutoriais publicados:
 
+* **Analisando dados do Airbnd:** <a href=https://github.com/ecordeiro/data_science/blob/main/Analisando_os_Dados_do_Airbnb_Bruxelas.ipynb>Airbnb</a>
 * **Data Science: Investigando o naufrágio do Titanic:** <a href=https://github.com/ecordeiro/data_science/blob/main/Titanic.ipynb>Titanic</a>
-* **Analisando dados do Airbnd:** <a href=https://github.com/ecordeiro/data_science/blob/main/Analisando_os_Dados_do_Airbnb_Bruxelas.ipynb>Airbnb</a> 
 
 
 
