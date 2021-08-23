@@ -19,7 +19,7 @@ Meu interesse e paixão pela área de ciência de dados surgiu quando notei que,
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/emmanuelcordeiro/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/@ecordeiro)
 
 
 ## Projetos em Data Science:
